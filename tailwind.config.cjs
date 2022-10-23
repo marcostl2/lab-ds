@@ -30,6 +30,9 @@ module.exports = {
       fontFamily: {
         sans: 'Inter, sans-serif',
       },
+      animation: {
+        rotate: 'spin 2s linear infinite',
+      },
     },
   },
   plugins: [],
